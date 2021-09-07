@@ -67,6 +67,3 @@ https://www.goldennumber.net/leonardo-da-vinci-golden-ratio-art/
 https://www.nature.com/news/2006/060703/full/news060703-17.html
 
 https://mathpickle.com/project/mondrian-art-puzzles/
-
-$ \4 $
-
